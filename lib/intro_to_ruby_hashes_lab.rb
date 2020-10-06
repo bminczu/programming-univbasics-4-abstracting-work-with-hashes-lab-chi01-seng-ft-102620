@@ -5,4 +5,3 @@ end
 def read_from_hash(hash, key)
   {hash[key]}
 end
-
